@@ -10,7 +10,7 @@ if (destino == "sul" && classes == "e") {
 } 
 
 // Verifica se o destino é "Sul" e a classe é "eco" (econômica)
-else if(destino == "Sul" && classes == "eco") {
+else if(destino == "sul" && classes == "eco") {
     custoTotal = 3000 * passageiros;  // Calcula o custo total para todos os passageiros
 }
 
